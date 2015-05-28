@@ -59,7 +59,7 @@ public class Circulo {
 			System.out.println("Criculo c =" +  c.getColor() + " " + " " + c.getX() + " " + c.getY() + " " + c.pi + " " + " " + "El area es:"+ c.resultado );
 		} 
 
-}
+} 
 
 
  
